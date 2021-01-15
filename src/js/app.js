@@ -1,3 +1,4 @@
+/* eslint-disable */
 const btnCollapse = document.querySelector('.btn-collapse');
 const collapseElem = document.querySelector('.collapse');
 
